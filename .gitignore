@@ -16,6 +16,8 @@ out/
 .turbo/
 coverage/
 
+pass_supabase.txt
+
 # Logs
 *.log
 npm-debug.log*
